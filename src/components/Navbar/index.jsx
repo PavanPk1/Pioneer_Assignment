@@ -15,7 +15,7 @@ import { Link } from "react-router-dom";
 const navOptions = [
   {
     id: 1,
-    name: "Home",
+    name: "/",
     icon: <FiHome />,
   },
   {

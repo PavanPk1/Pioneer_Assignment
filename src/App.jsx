@@ -13,7 +13,7 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route exact path="/Home" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
         <Route path="/create" exact element={<Page />} />
         {/* <Route path="*" element={<Navigate to="/create" />} /> */}
       </Routes>
