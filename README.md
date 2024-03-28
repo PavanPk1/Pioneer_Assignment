@@ -1,5 +1,7 @@
 Frontend Developer Assessment
 
+View the site -> https://cryptopk16.netlify.app/
+
 Task 1: Create a Side Navigation Bar
 Objective: Implement a side navigation bar similar to the one highlighted in the provided image.
 
