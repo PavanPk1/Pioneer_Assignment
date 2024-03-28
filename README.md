@@ -9,7 +9,7 @@ Objective: Fetch population data from the provided API (https://datausa.io/api/d
 Task 3: Display Cryptocurrency Prices
 Objective: Fetch cryptocurrency prices from the provided API (https://api.coindesk.com/v1/bpi/currentprice.json) and display them in cards.
 
-To see the output go to "/home" url ->  http://localhost:5173/Home
+To see the output go to  url ->  http://localhost:5173/
 
 Instructions:
 1. npm install
