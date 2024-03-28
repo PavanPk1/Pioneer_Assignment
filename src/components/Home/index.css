@@ -1,0 +1,29 @@
+.home{
+    display: flex;
+    background-color: #7c807a93;
+    height: 100vh;
+}
+.home-container{
+    padding: 15px;
+    color: #fff;
+    width: 100%;
+    overflow: auto;
+}
+.profile-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.trading-btn{
+    height: 32px;
+    width: 150px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: green;
+    color: #fff;
+    outline: none;
+    font-family: "Lato";
+    font-size: 16px;
+    cursor: pointer;
+}

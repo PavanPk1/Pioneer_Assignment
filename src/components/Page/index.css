@@ -1,0 +1,11 @@
+.page{
+    min-height: 100vh;
+    display: flex;
+    background-color: azure;
+}
+.page-title{
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(12, 55, 41);
+    align-self: center;
+}
